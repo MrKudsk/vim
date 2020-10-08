@@ -37,8 +37,8 @@ call plug#begin('~/.vim/plugged')
     Plug 'jremmen/vim-ripgrep'
     Plug 'vim-utils/vim-man'
     Plug 'lyuts/vim-rtags' " C++
-    Plug 'git@github.com:kien/ctrlp.vim.git'
-    Plug 'git@github.com:Valloric/YouCompleteMe.git'
+    Plug 'kien/ctrlp.vim'
+    Plug 'Valloric/YouCompleteMe'
     Plug 'mbbill/undotree'
 
     " color schemes
